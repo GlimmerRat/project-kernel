@@ -1,0 +1,14 @@
+# Obsidian device-specific workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache / transient data
+.obsidian/cache/
+
+# macOS
+.DS_Store
+
+# Temporary editor files
+*.tmp
+*.swp
+*~
